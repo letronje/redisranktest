@@ -1,13 +1,1 @@
-# redisranktest
-
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Tiny bit of clojure code to test how fast redis sorted sets are.
